@@ -1,13 +1,16 @@
 Package: hello-world
-Version: 0.0.1
-Architecture: amd64
-Maintainer: example <example@example.com>
-Depends: libc6
-Filename: ./hello-world_0.0.1-1_all.deb
-Size: 2568
-MD5sum: 2f7f08afac3ff4eb54eaba7555e96d64
-SHA1: c02661f82a0c39f37f51d215db224a1bce1d72ca
-SHA256: b72d0b3a6c72f1124c4c445c6bf9ac4cf7e57d4df63731756e9e5ad5983fdcaa
-Homepage: http://example.com
-Description: A program that prints hello
+Version: 1.0.0
+Architecture: all
+Maintainer: John Doe <johndoe@example.com>
+Installed-Size: 14
+Depends: python3 (>= 3.5)
+Filename: ./hello-world_1.0.0_all.deb
+Size: 2414
+MD5sum: acfce689fdd2f1e31b57e2c8ad8e4353
+SHA1: 3d98a6066861fd9fbe9454d4596372be954c41dd
+SHA256: e9b7960ac3b92206b2cd00959cee763c21084e68552f6c869aab9515e3fc8858
+Section: python
+Priority: optional
+Description: A simple hello-world program to demenstrate how to package a
+ Python 3 script as a deb file
 
