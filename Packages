@@ -54,9 +54,9 @@ Installed-Size: 697
 Depends: python3 (>= 3.5)
 Filename: ./hello-world_1.0.5_all.deb
 Size: 309896
-MD5sum: bb4bde4c59e9c1003ca67900469f8c34
-SHA1: d851798935e3ca52bf5a502f7829b1fa67e1654f
-SHA256: 170f84199f91d9c9c94ad0862e17687de5470e4ba4def6691f279402260f323a
+MD5sum: 7bded27fdfbca7b216eb56e88693dcbe
+SHA1: a2036b783554758e416801d97622ee3409f34b0d
+SHA256: e83b30593b49b256bd699e0085e03902383a5a302d95ede5e17c0fbfb456505f
 Section: python
 Priority: optional
 Description: A simple hello-world program to demenstrate how to package a
