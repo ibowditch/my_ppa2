@@ -101,10 +101,10 @@ Maintainer: John Doe <johndoe@example.com>
 Installed-Size: 705
 Depends: python3 (>= 3.5), crudini, pulseaudio, python3-sdl2, python3-systemd, msmtp, msmtp-mta
 Filename: ./hello-world_1.11.0_all.deb
-Size: 311024
-MD5sum: bba23ddb4d497bb46c496a8e59262277
-SHA1: e7c7d1ad2a058cb111caea0aa264812598ea7af1
-SHA256: fc569b8bafcf3bc534784850be51c123f30c537c4587aaec8f6c58036d9834f2
+Size: 311046
+MD5sum: 4ffc886f8ee283c457bfec4d75b4e3c9
+SHA1: 724bb32b7ef68f5994d5958d72b1ef21dff13202
+SHA256: d46429bbbf20f894812db8e8313c1d2ea2da1a2c023c694e3d37dbd67891a752
 Section: python
 Priority: optional
 Description: A simple hello-world program to demenstrate how to package a
