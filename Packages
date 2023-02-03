@@ -191,6 +191,22 @@ Description: A simple hello-world program to demenstrate how to package a
  Python 3 script as a deb file
 
 Package: hello-world
+Version: 1.17.0
+Architecture: all
+Maintainer: John Doe <johndoe@example.com>
+Installed-Size: 713
+Depends: python3 (>= 3.5), crudini, pulseaudio, python3-sdl2, python3-systemd, msmtp, msmtp-mta
+Filename: ./hello-world_1.17.0_all.deb
+Size: 311902
+MD5sum: 91e9399d22c40fee9c92c9ea46dbe18d
+SHA1: 668d5f62cbb7a829317f6232f98f1ba2e1adae15
+SHA256: 12b4259ef7d46555da145b18b7aa3b4e27480fe91f94633ab5aa1b12d5ff6644
+Section: python
+Priority: optional
+Description: A simple hello-world program to demenstrate how to package a
+ Python 3 script as a deb file
+
+Package: hello-world
 Version: 1.2.0
 Architecture: all
 Maintainer: John Doe <johndoe@example.com>
