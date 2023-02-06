@@ -286,3 +286,19 @@ Priority: optional
 Description: A simple nfcreader program to demonstrate how to package a
  Python 3 script as a deb file
 
+Package: nfcserver2
+Version: 1.2.0
+Architecture: all
+Maintainer: John Doe <johndoe@example.com>
+Installed-Size: 748
+Depends: python3 (>= 3.5), crudini, pulseaudio, python3-sdl2, python3-systemd, msmtp, msmtp-mta
+Filename: ./nfcserver2_1.2.0_all.deb
+Size: 322848
+MD5sum: aa05d6d9fca3d284f5c29bc69e8ae0bb
+SHA1: 1e3dc8c0c8bb3b8559078d60a50e49c05608ffd8
+SHA256: aad25366da0d08020a550f3edb0e16777b7a913333005655728baa0fda5d64a3
+Section: python
+Priority: optional
+Description: A simple nfcreader program to demonstrate how to package a
+ Python 3 script as a deb file
+
