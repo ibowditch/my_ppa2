@@ -485,10 +485,10 @@ Maintainer: John Doe <johndoe@example.com>
 Installed-Size: 753
 Depends: python3 (>= 3.5), crudini, pulseaudio, python3-sdl2, python3-systemd, msmtp, msmtp-mta
 Filename: ./nfcserver2_1.21.0_all.deb
-Size: 324122
-MD5sum: 357beb215dfe7a2a2d7c806b074ebd76
-SHA1: 5ea92cc3db093df46589685a56ee7ded51187351
-SHA256: 23812b21f7716fac752bdf2a8ae45a1982c16943d1ec346781c081f5ad3af01e
+Size: 324118
+MD5sum: 76cb9e1a20061406ea709f85db31b1aa
+SHA1: accfca9fdf601f8a866af3b2955aef500f5b6731
+SHA256: a01958b9ac61d1a1c5a6f86d06ec1432356224b0cd5f7b833e5969e207790d39
 Section: python
 Priority: optional
 Description: A simple nfcreader program to demonstrate how to package a
